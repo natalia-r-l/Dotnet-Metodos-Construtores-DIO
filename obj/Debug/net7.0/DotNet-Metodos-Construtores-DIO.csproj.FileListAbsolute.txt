@@ -1,0 +1,14 @@
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\bin\Debug\net7.0\DotNet-Metodos-Construtores-DIO.exe
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\bin\Debug\net7.0\DotNet-Metodos-Construtores-DIO.deps.json
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\bin\Debug\net7.0\DotNet-Metodos-Construtores-DIO.runtimeconfig.json
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\bin\Debug\net7.0\DotNet-Metodos-Construtores-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\bin\Debug\net7.0\DotNet-Metodos-Construtores-DIO.pdb
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\DotNet-Metodos-Construtores-DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\DotNet-Metodos-Construtores-DIO.AssemblyInfoInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\DotNet-Metodos-Construtores-DIO.AssemblyInfo.cs
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\DotNet-Metodos-Construtores-DIO.csproj.CoreCompileInputs.cache
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\DotNet-Metodos-Construtores-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\refint\DotNet-Metodos-Construtores-DIO.dll
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\DotNet-Metodos-Construtores-DIO.pdb
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\DotNet-Metodos-Construtores-DIO.genruntimeconfig.cache
+C:\Users\resin\Development\DotNet\DotNet-Metodos-Construtores-DIO\obj\Debug\net7.0\ref\DotNet-Metodos-Construtores-DIO.dll
